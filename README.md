@@ -44,6 +44,7 @@ The energy model considers battery consumption proportional to travel distance, 
 Each CSV file contains:
 
 - `id` → Unique node identifier
+- `localidade` → Name of the historical building
 - `latitude` → Geographic latitude
 - `longitude` → Geographic longitude
 - `estacao` → 1 - It is a station; 0 - It is not a station

@@ -35,7 +35,7 @@ The energy model considers battery consumption proportional to travel distance, 
 
 ├── EVRP-OP_withStation.csv
 
-└─  EVRP-O_noStation.csv
+└─  EVRP-OP_noStation.csv
 
 ---
 

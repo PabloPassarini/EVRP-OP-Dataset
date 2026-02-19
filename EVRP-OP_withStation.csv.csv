@@ -1,0 +1,77 @@
+id;nome;localidade;lat;lon;estacao
+0;ICEB;Ouro Preto MG;-20.3959807102323;-43.5103194785904;0
+1;Museu_Inconf;Ouro Preto MG;-20.3861429084004;-43.5037237850584;1
+2;Igreja_NossaSenhoraCarmo;Ouro Preto MG;-20.3861424977381;-43.5041993247887;0
+3;Museu_CasaDosContos;Ouro Preto MG;-20.3843553372994;-43.5061742479104;0
+4;Igreja Nossa Senhora Das Merces (Cima);Ouro Preto MG;-20.383596842875956;-43.504501213066966;0
+5;Igreja_SaoFranciscoDePaula;Ouro Preto MG;-20.382511823078;-43.5078329201049;0
+6;Basilica_NossaSenhoraDoPilar;Ouro Preto MG;-20.386822228916103;-43.5075183077755;0
+7;Igreja_SaoFranciscoDeAssis;Ouro Preto MG;-20.3867888001975;-43.5027697554844;0
+8;Igreja_MatrizDeSantaEfigenia;Ouro Preto MG;-20.3881586872753;-43.4954212155544;0
+9;Igreja_NossaSenhoraDoRosario;Ouro Preto MG;-20.3836824799882;-43.5100382335399;0
+10;Igreja_NossaSenhoraDasDores;Ouro Preto MG;-20.390210084915;-43.4986776876976;0
+11;Capela_SaoSebastião;Ouro Preto MG;-20.3758160732051;-43.5021914347982;0
+12;Capela_SantoAmaro;Bota Fogo MG;-20.3748101662689;-43.578793911999504;1
+13;Igreja_MatrizNossaSenhoraDeNazare;Cachoeira do Campo MG;-20.3464246769226;-43.6700139568839;1
+14;Igreja_SãoPedroDosClerigos;Mariana MG;-20.3840148555505;-43.4186820014077;1
+15;Igreja_NossaSenhoraRainhaDosAnjos;Mariana MG;-20.3810251195465;-43.419353665556;0
+16;Igreja_NossaSenhoraDoCarmo;Mariana MG;-20.3787716466889;-43.4181209075047;0
+17;Igreja_SaoFranciscoDeAssis;Mariana MG;-20.3784197539606;-43.4176235057187;0
+18;CatedralBasilica_NossaSenhoraDaAssuncao;Mariana MG;-20.3782919211913;-43.41644093037991;0
+19;Igreja_SantAnna;Mariana MG;-20.3769095840336;-43.4137124660242;0
+20;Igreja_SantoAntonio;Mariana MG;-20.3750020857801;-43.4214893294195;0
+21;Igreja_NossaSenhoraDoRosarioDosPretos;Mariana MG;-20.373284165102497;-43.4204578623285;0
+22;Capela_NossaSenhoraDaBoaMorte;Mariana MG;-20.3820362652883;-43.4149585584927;0
+23;Museu Boulieu;Ouro Preto MG;-20.38123172991792;-43.50528974303897;0
+24;Casa do Gonzaga;Ouro Preto MG;-20.385684120398484;-43.50287681333341;0
+25;Escola de Minas;Ouro Preto MG;-20.385002497000432;-43.50327388562642;0
+26;Igreja do Senhor Bom Jesus de Matosinhos e São Miguel e Almas;Ouro Preto MG;-20.382130711692277;-43.51612286769559;0
+27;Igreja Nossa senhora das Dores;Cachoeira do Campo MG;-20.345624531186637;-43.67411798938975;0
+28;Igreja de Nossa Senhora do Bom Despacho;Cachoeira do Campo MG;-20.34837771287173;-43.66906322121255;0
+29;Capela São Francisco de Paula;Cachoeira do Campo MG;-20.352496522039715;-43.67138356875183;0
+30;Igreja Matriz de Santo Antônio da Casa Branca;Glaura MG;-20.29690046991121;-43.644191882544106;1
+31;Matriz de São Bartolomeu;São Bartolomeu MG;-20.314785025782687;-43.57819447657116;0
+32;Igreja Matriz de Santo Antônio do Leite;Santo Antônio do Leite MG;-20.356508119931878;-43.71944731034236;1
+33;Igreja Nossa Senhora dos Prazeres;Lavras Novas MG;-20.477347491823675;-43.51597980141993;1
+34;Igreja Matriz de Santo Antônio;Ouro Branco MG;-20.520923487576137;-43.69192269451995;1
+35;Igreja Matriz de Santo Antônio de Pádua;Itatiaia MG;-20.49185093309781;-43.60072922178562;1
+36;Capela Nossa Senhora Mãe dos Homens;Ouro Branco MG;-20.52642873192049;-43.69394925802021;0
+37;Basílicado Senhor Bom Jesus de Congonhas;Congonhas MG;-20.50812714747123;-43.86082582144866;1
+38;Matriz de São José;Congonhas MG;-20.505007525694825;-43.85983387340367;0
+39;Matriz Nossa Senhora da Conceição;Congonhas MG;-20.50009810454574;-43.85792385181596;0
+40;Igreja de Nossa Senhora do Rosário dos Pretos;Congonhas MG;-20.500038328139272;-43.85154816099075;0
+41;Museu da Imagem e Memória;Congonhas MG;-20.506196797497694;-43.859992898388185;0
+42;Igreja de Nossa Senhora da Soledade;Lobo Leite MG;-20.520403519761945;-43.80058660667099;1
+43;Igreja do Senhor Bom Jesus de Matozinhos de Itabirito;Itabirito MG;-20.255991984048933;-43.81015237279188;1
+44;Capela de Nossa Senhora do Rosário;Itabirito MG;-20.251766505682287;-43.80927202964524;0
+45;Igreja Matriz de São Gonçalo;Amarantina MG;-20.31163510537427;-43.711676226400144;0
+46;Igreja Nossa Senhora do Rosário;Acuruí MG;-20.2107122814368;-43.720049982737336;1
+47;Igreha Nossa Senhora da Conceição;Acuruí MG;-20.209664275235536;-43.72419800155186;0
+48;Igreja Nossa Senhora Das Merces (Baixo);Ouro Preto MG;-20.38777207521929;-43.50204404476293;0
+49;Igreja Nossa Senhora das Mercês;Mariana MG;-20.38213066403433;-43.41854073377076;0
+50;ICHS UFOP;Mariana MG;-20.38170657169276;-43.414298204417065;0
+51;Museu de Mariana;Mariana MG;-20.378074255845934;-43.418301103015374;0
+52;Museu Arquidiocesano de Arte;Mariana MG;-20.378817205112018;-43.416682345427496;0
+53;Casa da cultura;Cachoeira do Campo MG;-20.346486522702627;-43.66934696836356;0
+54;Capela São José;Santo Antônio do Leite MG;-20.367926729067552;-43.70608150333703;0
+55;Capela de Santa Luzia;Santo Antônio do Leite MG;-20.37855969208484;-43.70897927710497;0
+56;Igreja Nossa Senhora da Mercês;São Bartolomeu MG;-20.316405048265796;-43.57588869717252;0
+57;Capela Nossa Senhora da Conceição;Glaura MG;-20.29679742423444;-43.64292625395809;0
+58;Capela da Nossa Senhora da Mercês;Glaura MG;-20.299276395076895;-43.64121553987604;0
+59;Igreja de São José;Ouro Preto MG;-20.38463965762745;-43.50803450761361;0
+60;Capela de Nossa Senhora do Rosário do Padre Faria;Ouro Preto MG;-20.388102901523887;-43.49145049101819;0
+61;Capela de Nossa Senhora da Piedade;Ouro Preto MG;-20.385395075964414;-43.48533201194149;0
+62;Capela de Nossa Senhora dos Remédios;Santo Antônio do Salto MG;-20.494548994922248;-43.44209759456257;1
+63;Capela Santana;Chapada (Ouro Preto) MG;-20.47687897534584;-43.550325876218174;0
+64;Capelinha Bom Jesus da Pedra Fria;Ouro Preto MG;-20.38313401719711;-43.51355697343084;0
+65;Capela do Nosso Senhor do Bomfim;Ouro Preto MG;-20.386071326760504;-43.50789404041524;0
+66;Capela de São José;Engenho Corrêa MG;-20.35152268894509;-43.7702283468439;1
+67;Capela Santo Antônio do Brejo;Engenho Corrêa MG;-20.36625503426884;-43.79090712438977;0
+68;Capela de São João Batista;Ouro Preto MG;-20.37646246627789;-43.48590905410689;0
+69;Prefeitura de Ouro Preto;Ouro Preto MG;-20.387542147057346;-43.50715526960679;0
+70;Museu Casa dos Inconfidentes;Ouro Preto MG;-20.39240152466174;-43.50657011295231;0
+71;Museu Casa Guignard;Ouro Preto MG;-20.385216198308704;-43.50481783443066;0
+72;Museu da Farmácia;Ouro Preto MG;-20.38707283112527;-43.50438258612368;0
+73;Museu do Oratório;Ouro Preto MG;-20.38638838435499;-43.50435926864938;0
+74;Casa da Ópera;Ouro Preto MG;-20.38581510297539;-43.50498467376505;0
+75;Instituto de Filosofia, Arte e Cultura IFAC (UFOP);Ouro Preto MG;-20.3857678459396;-43.50541403500063;0
